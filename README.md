@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
