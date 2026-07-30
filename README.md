@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
