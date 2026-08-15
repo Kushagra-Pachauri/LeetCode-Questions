@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
