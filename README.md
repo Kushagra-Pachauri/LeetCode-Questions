@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Kushagra-Pachauri/LeetCode-Questions/tree/master/0069-sqrtx) |
 ## Memoization
 |  |
